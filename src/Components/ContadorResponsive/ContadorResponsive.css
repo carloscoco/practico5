@@ -1,0 +1,37 @@
+.Formulario div {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:row;
+   
+}
+.Formulario input{
+    margin-left: 20px;
+    margin-top: 5px;
+    width: 200px;
+}
+
+.Formulario label{
+    width: 125px;
+    text-align: left;
+    margin-top: 5px;
+}
+
+.Formulario legend{
+    margin-top: 20px;
+    background-color: aqua;
+    width: 350px;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace
+}
+
+.Formulario select{
+    margin-left: 20px;
+    margin-top: 5px;
+    width: 204px;
+}
+
+.Formulario button{
+    margin-top: 15px;
+    margin-left: 15px;
+}
